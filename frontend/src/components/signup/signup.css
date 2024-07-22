@@ -1,0 +1,33 @@
+.signup {
+    width: 100%;
+    height: 100vh;
+}
+
+.column {
+    height: 100vh;
+}
+
+.sign-up-heading {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    color: #21219b;
+}
+
+
+
+.btn-signup {
+    background-color: #21219b;
+    color: white !important;
+    border: none;
+    outline: none;
+
+}
+
+.btn-signup:hover {
+    background-color: rgb(50, 50, 200); 
+}
+
+
+.input-signup {
+    outline: none;
+}
