@@ -1,3 +1,3 @@
 # todoo
 a mern project 
-# check master branch for frontend
+check master branch for frontend
